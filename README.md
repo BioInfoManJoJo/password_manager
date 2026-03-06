@@ -14,7 +14,7 @@ The application stores credentials securely using strong cryptography and provid
 * Clipboard auto-clear after 30 seconds
 * Simple graphical interface
 
-## Screenshots
+## Example screen
 
 Login screen
 
