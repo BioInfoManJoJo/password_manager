@@ -1,0 +1,8 @@
+{
+  "entries" : [ {
+    "site" : "github.com",
+    "username" : "user123",
+    "password" : "mypassword",
+    "notes" : "2FA enabled"
+  } ]
+}
